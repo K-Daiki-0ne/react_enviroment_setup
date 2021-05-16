@@ -1,5 +1,5 @@
 import React from 'react';
 
-export const App = () => {
+export default function App(){
   return <h1>React enviroment setup</h1>
 }
