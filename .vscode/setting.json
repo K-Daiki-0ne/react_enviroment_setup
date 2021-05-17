@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "Night Wolf [gray]",
+  "terminal.integrated.shell.osx": "/bin/bash",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "settingsSync.ignoredExtensions": [
+  
+  ],
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "extensions.autoUpdate": false,
+  "window.zoomLevel": -1,
+  "[json]": {
+  
+      "editor.quickSuggestions": {
+          "strings": true
+      },
+      "editor.suggest.insertMode": "replace"
+  }
+}
