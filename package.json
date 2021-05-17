@@ -5,7 +5,8 @@
   "author": "_ 0ne <kouguchi3456@yahoo.co.jp>",
   "license": "MIT",
   "scripts": {
-    "start": "webpack serve --config webpack/webpack.config.js  --open"
+    "start": "webpack serve --config webpack/webpack.config.js --env env=dev",
+    "build": "webpack --config webpack/webpack.config.js --env env=prod"
   },
   "dependencies": {
     "react": "^17.0.2",
