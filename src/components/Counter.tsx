@@ -4,12 +4,8 @@ export const Counter = () => {
   const [count, setCount] = useState<number>(0);
 
   const addCount = (e: React.MouseEvent<HTMLElement>) => {
-    setCount(c => c + 1);
-  }
+    setCount((c) => c + 1);
+  };
 
-  return (
-    <button onClick={addCount}>
-      Count {count}
-    </button>
-  )
-}
+  return <button onClick={addCount}>Count {count}</button>;
+};
