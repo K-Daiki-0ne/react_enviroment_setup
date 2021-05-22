@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+Array [
+  <h1>
+    Test React enviroment setup
+  </h1>,
+  <img
+    alt="React logo"
+    height={300}
+    src="test-file-stub"
+    width={300}
+  />,
+  <button
+    onClick={[Function]}
+  >
+    Count 
+    0
+  </button>,
+]
+`;
+
+exports[`Link changes the class when hovered 2`] = `
+Array [
+  <h1>
+    Test React enviroment setup
+  </h1>,
+  <img
+    alt="React logo"
+    height={300}
+    src="test-file-stub"
+    width={300}
+  />,
+  <button
+    onClick={[Function]}
+  >
+    Count 
+    0
+  </button>,
+]
+`;
+
+exports[`Link changes the class when hovered 3`] = `
+Array [
+  <h1>
+    Test React enviroment setup
+  </h1>,
+  <img
+    alt="React logo"
+    height={300}
+    src="test-file-stub"
+    width={300}
+  />,
+  <button
+    onClick={[Function]}
+  >
+    Count 
+    0
+  </button>,
+]
+`;
