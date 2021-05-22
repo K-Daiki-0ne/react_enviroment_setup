@@ -7,14 +7,15 @@
 [公式ドキュメント](https://ja.reactjs.org/docs/create-a-new-react-app.html)に記述されているようにcreate react appはreactの学習としては快適な環境を作成しますが、実務で使用するには基幹となるwebpackの設定など困難となってしまうので自身でセット
 アップができるように手動での環境構築を行いました。
 
+当リポジトリは[動画](https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo)のハンズオンで作成を行いました。
+
 ### 使用技術
 - webpack
 - babel
 - typescript
-
-### 環境構築詳細
-
-環境構築の詳細については後に記述を行う。
+- eslint
+- prettier
+- husky
 
 ### 環境の設定とルールについて
 
