@@ -9,7 +9,7 @@
 
 当リポジトリは[動画](https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo)のハンズオンで作成を行いました。
 
-※Jestで使用したテストに関しては動画の内容に含まれていません。
+※Jestを使用したテストに関しては動画の内容に含まれていません。
 
 ### 使用技術
 - webpack
